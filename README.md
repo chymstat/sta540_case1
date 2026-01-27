@@ -1,5 +1,14 @@
 # sta540_case1
 
+## Background of the study
+HIV infection is a significant public health problem, especially among the minority men who have sex with men (MSM). Regular HIV test is of help to address the problem because it makes early identification of HIV infection easily and timely, which provides people with enough time to get prevention and treatment. HIV self-tesing approved by the U.S. Food and Drug Administration is a convenient way serving as an alternative to the tests conducted in hospitals. The self-testing kits are accessible to people who have never tested before. Self-testing approach is especially useful for the minority MSM, who are at higher risk of HIV infection. Although there are many advanced prevention methods, including pre-exposure prophylaxis (PrEP), uptake of HIV testing remains insufficient among high-risk groups. Therefore, promoting HIV test in these groups is important for public health interest.
+
+With the spread of the internet, more studies focus on using platforms such as social media platforms, dating applications, and information search sites to promote HIV testing and to recruit participants for HIV prevention studies. Previous studies have shown that internet platforms can recruit a large number of people, especially those who have difficulties in accessing HIV testing or PeEP sevices. Pulic health projects and research studies have shown that using multiple online platforms to distribute HIV self-testing kits is of high efficiency. However, there is limited evidence comparing the effectiveness of different internet platforms in promoting HIV self-testing. Particularly, we have little knowledge about the differences in promoting self-testing and participant recruitng among social media, dating apps, and search sites. Exploring the effectiveness across platforms could help optimize resource allocation and improve the popularity of HIV self-testing. The study aims to compare HIV self-testing kit ordering rates across different online platforms and discover factors related to the ordering patterns.
+
+## Study objectives
+
+
+
 ## Table 1. Summary of National Institute on Drug Abuse Clinical Trials Network Social Media Pre-exposure Prophylaxis Study, 2020, population sociodemographic and behavioral characteristics (N=254)
 |Characteristic                                                              |Value      |
 |:---------------------------------------------------------------------------|:----------|
