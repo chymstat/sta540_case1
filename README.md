@@ -6,10 +6,20 @@ HIV infection is a significant public health problem, especially among the minor
 With the spread of the internet, more studies focus on using platforms such as social media platforms, dating applications, and information search sites to promote HIV testing and to recruit participants for HIV prevention studies. Previous studies have shown that internet platforms can recruit a large number of people, especially those who have difficulties in accessing HIV testing or PeEP sevices. Pulic health projects and research studies have shown that using multiple online platforms to distribute HIV self-testing kits is of high efficiency. However, there is limited evidence comparing the effectiveness of different internet platforms in promoting HIV self-testing. Particularly, we have little knowledge about the differences in promoting self-testing and participant recruitng among social media, dating apps, and search sites. Exploring the effectiveness across platforms could help optimize resource allocation and improve the popularity of HIV self-testing. The study aims to compare HIV self-testing kit ordering rates across different online platforms and discover factors related to the ordering patterns.
 
 ## Study objectives
+The primary aim of this study is to evaluate and compare the effectiveness of different types of internet platforms, including social media platforms, dating applications, and information search sites in promoting HIV self-testing among young Black and Latinx men who have sex with men (MSM) at increased risk of HIV infection. Effectiveness is assessed using HIV self-test kit ordering rates as a proxy for successful promotion. 
 
+Secondary aims include
+1. Compare the PrEP uptake across social media sites versus informational sites versus dating apps.
+2. Determine how substance use modifies HIV testing and PrEP uptake.
+3. Determine how the participant’s psychological stage of change or readiness for HIV testing varies by recruitment method and how the stage impacts the main outcome.
+4. Determine the most efficient web-based platform for advertisements related to promotion of HIV home self-test kits (primary outcome) and PrEP uptake (secondary outcome) using conversion from web-based metrics of the chosen platforms.
+5. Determine how the impact of participant perceptions about HIV testing and PrEP, stigma, and mistrust of medical providers affects HIV home self-testing (primary outcome).
+6. Determine how participants’ rates of sexual delay discounting relate to risk behavior and HIV testing.
 
+## Replicated results
 
-## Table 1. Summary of National Institute on Drug Abuse Clinical Trials Network Social Media Pre-exposure Prophylaxis Study, 2020, population sociodemographic and behavioral characteristics (N=254)
+### Baseline characteristics of participants
+**Table 1. Summary of National Institute on Drug Abuse Clinical Trials Network Social Media Pre-exposure Prophylaxis Study, 2020, population sociodemographic and behavioral characteristics (N=254)**
 |Characteristic                                                              |Value      |
 |:---------------------------------------------------------------------------|:----------|
 |Age in years, median (IQR)                                                  |25 (21–27) |
