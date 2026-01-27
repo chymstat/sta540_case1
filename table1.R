@@ -41,6 +41,9 @@ t1_dict <- dict %>%
 
 library(stringr)
 ### q31 age summary of participants
+mean(filtered_data$Q3_1)
+sd(filtered_data$Q3_1)
+
 age_summary <- t1_dt %>%
   summarise(
     age_label  = "Age (years)",
@@ -327,6 +330,7 @@ kbl <- kable(
   row_spec(bold_rows, bold = TRUE)
 
 save_kable(kbl, "Table1.html")
+
 
 
 
