@@ -61,6 +61,19 @@ A total of 254 participants were enrolled from six online platforms. The average
 
 ### Primary outcome
 In total, 177 of the 254 participants ordered test kits during the study period. 
+**Table 2.** Number and rate of HIV home self-test kits ordered through promotional platforms by wave per protocol sample in the National Institute on Drug Abuse Clinical Trials Network Social Media Pre-exposure Prophylaxis Study, 2020 (N = 254).
 
+| Type of platform          | Platform   | Wave | Number of days for each wave | Number of test kits ordered | Order rate (ordered test kits/day) |
+|---------------------------|------------|------|------------------------------|-----------------------------|------------------------------------|
+| **Social media site**     | Facebook   | 1ᵃ   | 70                           | 13                          | 0.19                               |
+|                           | Instagram  | 2    | 38                           | 13                          | 0.34                               |
+|                           | **Subtotal** | N/A  | 108                          | 26                          | 0.24                               |
+| **Dating app**            | Grindr     | 1ᵃ   | 70                           | 9                           | 0.13                               |
+|                           | Jack'd     | 2    | 38                           | 125                         | 3.29                               |
+|                           | **Subtotal** | N/A  | 108                          | 134                         | 1.24                               |
+| **Information search site** | Google     | 1ᵃ   | 70                           | 17                          | 0.24                               |
+|                           | Bing       | 2    | 38                           | 0                           | 0.00                               |
+|                           | **Subtotal** | N/A  | 108                          | 17                          | 0.16                               |
+| **Total**                 | —          | N/A  | 108                          | 177                         | 1.64                               |
 
 
