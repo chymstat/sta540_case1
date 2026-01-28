@@ -64,7 +64,7 @@ In total, 177 of the 254 participants ordered test kits during the study period.
 
 We conducted pairwise contrast tests on Poisson rates across platforms within the same wave. Results show that in wave 1, there was no statistically significant difference across the specific platforms. In detail, the Hockberg-adjusted p-value is 0.58 for Facebook vs Google and Facebook vs Grindr. While the Hockberg-adjusted p-value is 0.51 for Google vs Grindr. In wave 2, there was  statistically significant difference across the platforms. All of the Hockberg-adjusted p-value for three pairs are less than 0.001. 
 
-Besides, we tested contrasts stated in appendeix A across waves, which give the null hypothese as $H_{01}:$
+Besides, we tested contrasts stated in appendeix A across waves.Suppose the rates for platforms are expressed using $\lambda_{wave,platform}$, the null hypothese are $H_{01}:\lambda_{1,Facebook}=\lambda_{1,Grindr}\ and\ \lambda_{2,Instagram}=\lambda_{2,Jack'd}$
 
 **Table 2. Number and rate of HIV home self-test kits ordered through promotional platforms by wave per protocol sample in the National Institute on Drug Abuse Clinical Trials Network Social Media Pre-exposure Prophylaxis Study, 2020 (N = 254).**
 | Type of platform          | Platform   | Wave | Number of days for each wave | Number of test kits ordered | Order rate (ordered test kits/day) |
