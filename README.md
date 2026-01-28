@@ -80,4 +80,24 @@ Besides, we tested contrasts stated in appendeix A across waves.Suppose the rate
 |                           | **Subtotal** | N/A  | 108                          | 17                          | 0.16                               |
 | **Total**                 | —          | N/A  | 108                          | 177                         | 1.64                               |
 
+### Secondary outcomes
+The exploration of secondary objectives follows results in appendix C. Detailed replicated results could be found in attached pdfs. We found no statistically significant associations between test kit ordering and substance use, stage of health behavior change regarding HIV testing, and medical mistrust. 
+
+However, ordering a HIV test kit was associated with the statement "People in my life would leave if I had HIV" in survey about attitudes towards HIV testing. 48.1% (37/77) did not order a test kit whereas 33.7% (59/175) ordered a test kit. p-value using Fisher's exact test is 0.035. Participants who did not order a kit were more likely to agree with the statement "I think that new HIV/AIDS treatments can eradicate the virus from your body" in survey about attitudes towards HIV treatment, compared to those who ordered a kit. p-value using Wilcoxon rank test is 0.029. People who ordered a self-test kit were more likely to disagree with the statement in survey about HIV-related stigma, "I could not be friends with someone who has HIV/AIDS," compared to those who did not order a kit. p-value using Wilcoxon rank test is 0.032.
+
+Of the 254 participants, 118 (46.5%) were classified as "high-risk alcohol use" and 68 (26.8%) as "problem alcohol use." 84 (33%) participants were classified as "high-risk cannabis use" and 19% of the participants as "problem cannabis use." Over half (136, 53.5%) of the study participants reported that they were ready to start regularly testing for HIV ("Determination" stage), but only a small proportion of participants (12/177, 6.8%) among those who ordered a kit and 7.8% (6/77) of those who did not order a kit reported testing regularly ("Maintenance" stage). In total, 60 of the 254 (23.6%) participants agreed with the statement "I feel afraid of people living with HIV/AIDS" and only 10 (3.9%) agreed with the statement "I could not be friends with someone who has HIV/AIDS."
+
+Many participants believed that mistakes are common in health care settings (154, 60.6%) and that organizations cover up their mistakes (151, 59.4%). They also reported being cautious toward health care organizations (152, 59.8%), with 160 (63.0%) feeling that patients have occasionally been misled or deceived by medical professionals.
+
+We also replicated figure S1 to S3 in appendix C. Results show that 
+Few participants (47/148, 31.8%) had a negative attitude toward taking PrEP ("I feel uncomfortable taking HIV medication when I don’t have HIV."); some of them (19/144, 13.2%) were generally ashamed to tell people ("I am ashamed to tell others that I am on PrEP."). However, they expressed concerns over the cost and long-term health effects. The reported barriers to starting PrEP included potential adverse effects of the medication (125/138, 90.6%) and fear of HIV treatment failure because of PrEP in case they get infected with HIV (122/141, 86.5%). Facilitators to starting PrEP included the following: getting free HIV and sexually transmitted infection testing (115/140, 82.1%), acquiring free or low-cost PrEP (108/142, 76.1%), receiving a recommendation for PrEP from their doctor (101/141, 71.6%), and receiving additional counseling and support while on PrEP (101/141, 71.6%).
+
+
+
+
+
+
+
+
+
 
