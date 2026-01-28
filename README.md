@@ -19,6 +19,9 @@ Secondary aims include
 ## Replicated results
 
 ### Baseline characteristics of participants
+
+A total of 254 participants were enrolled from six online platforms. The average age of participants was 24.4 years with SD 3.7 years. 196 of the 254 (78.4%) participants identified as Black/African American and 66 of the 254 (26%) identified as Latinx. Most (91.3%) of the participants never received PrEP before. Only 2% of the participants reported they always used a condom. 210 of the 254 participants (82.7%) reported receptive condomless anal sex during the past 90 days. Most (75.2%) of the participants ever tested for HIV in the past. Among those tested, the median (IQR) time since their last test was 11 months (6-21). Participants who never previously tested reported that their main (41.3%) reasons for not testing were their fear of obtaining a positive HIV result. Detailed results could be found in Table 1 below. 
+
 **Table 1. Summary of National Institute on Drug Abuse Clinical Trials Network Social Media Pre-exposure Prophylaxis Study, 2020, population sociodemographic and behavioral characteristics (N=254)**
 |Characteristic                                                              |Value      |
 |:---------------------------------------------------------------------------|:----------|
@@ -55,3 +58,9 @@ Secondary aims include
 |&nbsp;&nbsp;Unaware of where to get tested                                  |7 (11.1)   |
 |&nbsp;&nbsp;Unlikely to be exposed to HIV                                   |8 (12.7)   |
 |&nbsp;&nbsp;Worried about names being reported if positive                  |3 (4.8)    |
+
+### Primary outcome
+
+
+
+
