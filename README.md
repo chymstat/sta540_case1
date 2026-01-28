@@ -60,7 +60,11 @@ A total of 254 participants were enrolled from six online platforms. The average
 |&nbsp;&nbsp;Worried about names being reported if positive                  |3 (4.8)    |
 
 ### Primary outcome
-In total, 177 of the 254 participants ordered test kits during the study period. 
+In total, 177 of the 254 participants ordered test kits during the study period. Overall, participants from dating apps had the highest order rate (1.24 kits/day), followed by social media platforms (0.24 kits/day) and information search platforms (0.16 kits/day). Detailed results are provided in Table 2. 
+
+We conducted pairwise contrast tests on Poisson rates across platforms within the same wave. Results show that in wave 1, there was no statistically significant difference across the specific platforms. In detail, the Hockberg-adjusted p-value is 0.58 for Facebook vs Google and Facebook vs Grindr. While the Hockberg-adjusted p-value is 0.51 for Google vs Grindr. In wave 2, there was  statistically significant difference across the platforms. All of the Hockberg-adjusted p-value for three pairs are less than 0.001. 
+
+Besides, we tested contrasts stated in appendeix A across waves, which give the null hypothese as H_{01}:
 
 **Table 2. Number and rate of HIV home self-test kits ordered through promotional platforms by wave per protocol sample in the National Institute on Drug Abuse Clinical Trials Network Social Media Pre-exposure Prophylaxis Study, 2020 (N = 254).**
 | Type of platform          | Platform   | Wave | Number of days for each wave | Number of test kits ordered | Order rate (ordered test kits/day) |
