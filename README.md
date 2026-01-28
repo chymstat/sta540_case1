@@ -92,7 +92,20 @@ Many participants believed that mistakes are common in health care settings (154
 We also replicated figure S1 to S3 in appendix C. Results show that 
 Few participants (47/148, 31.8%) had a negative attitude toward taking PrEP ("I feel uncomfortable taking HIV medication when I don’t have HIV."); some of them (19/144, 13.2%) were generally ashamed to tell people ("I am ashamed to tell others that I am on PrEP."). However, they expressed concerns over the cost and long-term health effects. The reported barriers to starting PrEP included potential adverse effects of the medication (125/138, 90.6%) and fear of HIV treatment failure because of PrEP in case they get infected with HIV (122/141, 86.5%). Facilitators to starting PrEP included the following: getting free HIV and sexually transmitted infection testing (115/140, 82.1%), acquiring free or low-cost PrEP (108/142, 76.1%), receiving a recommendation for PrEP from their doctor (101/141, 71.6%), and receiving additional counseling and support while on PrEP (101/141, 71.6%).
 
+## Reflections
 
+Basically, the manuscript and the data information are comprehensive for the reproduction work. The reproduction work is a valuable learning experience that deepen my understanding of both statistical methods and practical study design. Through the real world setting reproduction work, I practiced what I learned about study design, data cleaning and model specifications. This experience also improved my skills in managing real-world data. However, there are differences between my results and the published ones. Firstly, I found the q1 of participants' age is 21 while published Table 1 shows that to be 23. Additionaly, the exact p-value for pairwise test also differs. But this did not influence the significance. Additionally, there are several numbers in my secondary results that not match that in the manuscript. But the number and p-values matched what I found in appendix C. Also, my results of the percent of participants' response to survey questions in figure S1 to S3 also don't match that in appendix C. But the general trend are similar. I think the difference comes from different calculation or round methods. 
+
+## References
+1. Stafylis, C., Vavala, G., Wang, Q., McLeman, B., Lemley, S. M., Young, S. D., Xie, H., Matthews, A. G., Oden, 
+N., Revoredo, L., Shmueli-Blumberg, D., Hichborn, E. G., McKelle, E., Moran, L. M., Jacobs, P., Marsch, L. 
+A., & Klausner, J. D. (2022). Relative effectiveness of social media, dating apps, and information search 
+sites in promoting HIV self-testing: Observational cohort study. JMIR Formative Research, 6(9), 
+e35648. DOI: https://doi.org/10.2196/35648
+
+2. Data and data dictionary are from the NIDA data share page: https://datashare.nida.nih.gov/study/nida-ctn-0083
+
+3. Rpacksge `emmeans`: https://cran.r-project.org/web/packages/emmeans/vignettes/comparisons.html
 
 
 
