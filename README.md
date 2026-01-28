@@ -60,7 +60,7 @@ A total of 254 participants were enrolled from six online platforms. The average
 |&nbsp;&nbsp;Worried about names being reported if positive                  |3 (4.8)    |
 
 ### Primary outcome
-
+In total, 177 of the 254 participants ordered test kits during the study period. 
 
 
 
